@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mW0YrsNKUb6HcriKHidAaRAp2FbLdmZ2fUatWxws6k8=",
+  "Hash": "FG49eiVoi50+ZIpILrUQj3mOlUHGDJyKh44SkSyMfUc=",
   "Source": "MVCTutorial",
   "BasePath": "_content/MVCTutorial",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVCTutorial\\wwwroot",
       "Source": "MVCTutorial",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\favicon.ico",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\favicon.ico",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/favicon.ico",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\about-bg.jpg",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\about-bg.jpg",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/img/about-bg.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\contact-bg.jpg",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\contact-bg.jpg",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/img/contact-bg.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\contact-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\home-bg.jpg",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\home-bg.jpg",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/img/home-bg.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\home-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\post-bg.jpg",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\post-bg.jpg",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/img/post-bg.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\post-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\post-sample-image.jpg",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\assets\\img\\post-sample-image.jpg",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "assets/img/post-sample-image.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\post-sample-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\css\\styles.css",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\js\\scripts.js",
       "SourceId": "MVCTutorial",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\MVCTutorial\\MVCTutorial\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial\\MVCTutorial\\wwwroot\\",
       "BasePath": "_content/MVCTutorial",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
