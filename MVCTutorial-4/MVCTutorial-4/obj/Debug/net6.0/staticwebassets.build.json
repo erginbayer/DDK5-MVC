@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Y5i13DEMtVUdE6Oe54hw5jDOkV+qQ4lFRZu0XfwFaRw=",
+  "Source": "MVCTutorial-4",
+  "BasePath": "_content/MVCTutorial-4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVCTutorial-4\\wwwroot",
+      "Source": "MVCTutorial-4",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\",
+      "BasePath": "_content/MVCTutorial-4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "MVCTutorial-4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\",
+      "BasePath": "_content/MVCTutorial-4",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\css\\styles.css",
+      "SourceId": "MVCTutorial-4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\",
+      "BasePath": "_content/MVCTutorial-4",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\js\\scripts.js",
+      "SourceId": "MVCTutorial-4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\MVCTutorial-4\\MVCTutorial-4\\wwwroot\\",
+      "BasePath": "_content/MVCTutorial-4",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}
