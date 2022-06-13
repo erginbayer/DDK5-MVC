@@ -1,0 +1,28 @@
+﻿@using MVCTutorial_7.Models.ORM;
+@model List<WebUser>;
+
+@if (@Model is null)
+{
+    <p>Orders not found!</p>
+    return;
+}
+
+<table>
+    <tr>
+        <th> ID </th>
+        <th> Name </th>
+        <th> Email </th>
+        <th> Phone </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.Id </td>
+            <td> @item.Name </td>
+            <td> @item.Email </td>
+            <td> @item.Phone </td>
+        </tr>
+    }
+  
+</table>

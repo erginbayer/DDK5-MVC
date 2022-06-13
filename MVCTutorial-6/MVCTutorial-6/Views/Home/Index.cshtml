@@ -1,0 +1,24 @@
+﻿@using MVCTutorial_6.Models.ORM
+@model List<Supplier>
+
+<table>
+    <tr>
+    <th>ID</th>
+    <th> CompanyName </th>
+    <th> ContactName</th>
+    <th> City </th>
+    <th> Country</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> <a href="/home/detail/@item.Id"> @item.Id </td>
+            <td> @item.CompanyName </td>
+            <td> @item.ContactName </td>
+            <td> @item.City </td>
+            <td> @item.Country</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,21 @@
+﻿@model MVCTutorial_7.Models.ORM.WebUser;
+
+<form action="/webuser/add" method="post">
+
+    <div>
+        @Html.LabelFor(q => q.Name)
+        @Html.TextBoxFor(q => q.Name)
+    </div>
+
+    <div>
+        @Html.LabelFor(q => q.Email)
+        @Html.TextBoxFor(q => q.Email)
+    </div>
+
+    <div>
+        @Html.LabelFor(q => q.Phone)
+        @Html.TextBoxFor(q => q.Phone)
+    </div>
+    <div>
+        <button type="submit">  Add   </button>
+    </div>
