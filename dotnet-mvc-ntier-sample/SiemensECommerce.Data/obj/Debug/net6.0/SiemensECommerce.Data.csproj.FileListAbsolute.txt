@@ -1,0 +1,14 @@
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\bin\Debug\net6.0\SiemensECommerce.Data.deps.json
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\bin\Debug\net6.0\SiemensECommerce.Data.runtimeconfig.json
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\bin\Debug\net6.0\SiemensECommerce.Data.dll
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\bin\Debug\net6.0\SiemensECommerce.Data.pdb
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.csproj.AssemblyReference.cache
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.AssemblyInfoInputs.cache
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.AssemblyInfo.cs
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.dll
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\refint\SiemensECommerce.Data.dll
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.pdb
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\SiemensECommerce.Data.genruntimeconfig.cache
+C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Data\obj\Debug\net6.0\ref\SiemensECommerce.Data.dll
