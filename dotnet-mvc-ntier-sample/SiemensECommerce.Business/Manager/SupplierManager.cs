@@ -7,25 +7,20 @@ using System.Threading.Tasks;
 
 namespace SiemensECommerce.Business.Manager
 {
-    public class AdminUserManager
+    public class SupplierManager
     {
-        public static bool LoginControl(string email, string password)
+        public static void Add(Supplier supplier)
         {
             SiemensECommerceContext db = new SiemensECommerceContext();
-
-            bool adminUserControl = db.AdminUsers.Any(q => q.EMail == email && q.Password == password);
-
-            return adminUserControl;
-
-
-        }
-
-        public static void Add(AdminUser adminUser)
-        {
-            SiemensECommerceContext db = new SiemensECommerceContext();
-            db.AdminUsers.Add(adminUser);
+            db.Suppliers.Add(supplier);
             db.SaveChanges();
-        }
+        }     
 
+        public List<Supplier> GetSuppliers()
+        {
+            SiemensECommerceContext db = new SiemensECommerceContext();
+            var suppliers = db.Suppliers.Where(q=>q.IsDeleted==false).ToList();
+            return suppliers;
+        }
     }
 }

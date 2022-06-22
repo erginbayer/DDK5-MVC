@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj": {}
+    "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj": {
+    "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
         "projectName": "SiemensECommerce.Business",
-        "projectPath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
+        "projectPath": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
         "packagesPath": "C:\\Users\\ABRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\obj\\",
+        "outputPath": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj": {
-                "projectPath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj"
+              "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj": {
+                "projectPath": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj": {
+    "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
         "projectName": "SiemensECommerce.Data",
-        "projectPath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
+        "projectPath": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
         "packagesPath": "C:\\Users\\ABRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\obj\\",
+        "outputPath": "C:\\Users\\ABRA\\Desktop\\DDK5-MVC\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABRA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,7 +13,6 @@ namespace SiemensECommerce.UI.Controllers
 
             var categories = categoryManager.GetCategories();
             
-
             return View(categories);
         }
 
