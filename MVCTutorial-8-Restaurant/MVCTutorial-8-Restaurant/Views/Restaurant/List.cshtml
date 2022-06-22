@@ -1,0 +1,28 @@
+﻿@using MVCTutorial_8_Restaurant.Models.ORM;
+@model List<Restaurant>
+
+<table>
+    <tr>
+        <th> Id </th>
+        <th> Name </th>
+        <th> Phone </th>
+        <th> City </th>
+        <th> Region </th>
+    </tr>
+
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.Id </td>
+            <td> @item.Name </td>
+            <td> @item.Phone </td>
+            <td> @item.City </td>
+            <td> @item.Region </td>
+        </tr>
+    }
+
+
+
+</table>

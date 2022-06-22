@@ -1,0 +1,25 @@
+﻿@model MVCTutorial_8_Restaurant.Models.ORM.Restaurant;
+
+<form1 action="/Restaurant/Add" method="post">
+	<div>
+		@Html.LabelFor(q=>q.Name)
+		@Html.TextBoxFor(q=>q.Name)
+	</div>
+	<div>
+		@Html.LabelFor(q=>q.Address)
+		@Html.TextBoxFor(q=>q.Address)
+	</div>
+	<div>
+		@Html.LabelFor(q=>q.Phone)
+		@Html.TextBoxFor(q=>q.Phone)
+	</div>
+	<div>
+		@Html.LabelFor(q=>q.City)
+		@Html.TextBoxFor(q=>q.City)
+	</div>
+		<div>
+		@Html.LabelFor(q=>q.Region)
+		@Html.TextBoxFor(q=>q.Region)
+	</div>
+	<button type="submit">Add</button>
+</form1>

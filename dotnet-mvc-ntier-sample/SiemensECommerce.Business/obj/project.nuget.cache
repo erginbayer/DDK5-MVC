@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWlg8bPqfZiflPsj9XuTKWflMgWmqXq83PmxgnRQpIUpu0Xeh7VKj719iifDIp0FHDiZQnsetPPJ3aGTWS9C4w==",
+  "dgSpecHash": "Mtp93muLy0E2tq8emQNBWiAIm0mqrLiifr1t6z6uBVesduY5Wipe0vgNnJSn7CQ0m586xlcSdA5EBxwaPFLX/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABRA\\Desktop\\DDK5-DOTNET-MVC-NTIER-SAMPLE\\dotnet-mvc-ntier-sample\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
+  "projectFilePath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Business\\SiemensECommerce.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABRA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ABRA\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SiemensECommerce.Data.ORM
 {
-    public class Category :BaseEntity
+    public class Category : BaseEntity
     {
         public string Name { get; set; }
     }

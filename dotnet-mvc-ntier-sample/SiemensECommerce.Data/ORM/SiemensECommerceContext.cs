@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SiemensECommerce.Data.ORM
 {
-    public class SiemensECommerceContext :DbContext
+    public class SiemensECommerceContext : DbContext
     {
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -16,5 +16,8 @@ namespace SiemensECommerce.Data.ORM
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<AdminUser> AdminUsers { get; set; }
+        public DbSet<Product> Products { get; set; }
+
     }
 }

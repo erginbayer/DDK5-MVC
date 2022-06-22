@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SiemensECommerce.Business
-build_property.ProjectDir = C:\Users\ABRA\Desktop\DDK5-DOTNET-MVC-NTIER-SAMPLE\dotnet-mvc-ntier-sample\SiemensECommerce.Business\
+build_property.ProjectDir = C:\Users\ABRA\Desktop\dotnet-mvc-ntier-sample-master\SiemensECommerce.Business\

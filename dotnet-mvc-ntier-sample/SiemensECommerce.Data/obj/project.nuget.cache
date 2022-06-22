@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "neBetawQPHEmNwEYc0AdQPSVmaSHKerTJSSagr40SCP1dZrutvjN7QFjN0a0/XYIFLVyvWAJXcDqoYE5hyXgwA==",
+  "dgSpecHash": "OBnw880hkZE3oERzcQP7qhgtufrVX2B7Vxc/16OJulCG3tCsOSalFbnCEvqNqnMNeuPTi8MYF/N1nkCtc4heDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABRA\\Desktop\\DDK5-DOTNET-MVC-NTIER-SAMPLE\\dotnet-mvc-ntier-sample\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
+  "projectFilePath": "C:\\Users\\ABRA\\Desktop\\dotnet-mvc-ntier-sample-master\\SiemensECommerce.Data\\SiemensECommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABRA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ABRA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
